@@ -18,8 +18,8 @@
 <h2>Frequency</h2> 
 <div align="center">
   <a href="https://github.com/Henrique-DS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloHenrique&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloHenrique&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrique-DS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-DS&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
