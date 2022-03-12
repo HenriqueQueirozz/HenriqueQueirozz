@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/henrique-queiroz-a1a0bb1b7">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   <a href="https://www.instagram.com/invites/contact/?i=r1l6w3r9tw8k&utm_content=1ur8x9w">
+   <a href="https://www.instagram.com/riiiquue/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/henrique.queiroz.37051">
