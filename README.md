@@ -36,7 +36,9 @@
 ##<h2>Skills</h2> 
 <h3>Programming languages</h3>
 - PHP
-- Python
+<a href="https://www.python.org/">
+      <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ </a>
 
 <h3>Front/Back-end</h3>
 - HTML
