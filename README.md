@@ -8,11 +8,21 @@
 - I like to see every little project of mine working and serving its purpose
 - Currently studying: Python, React.
 
-### Contacts 📞
+### Contacts
 <div>
   <a href="mailto:henrique.q.paula@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/henrique-queiroz-a1a0bb1b7">
+    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   <a href="https://www.instagram.com/invites/contact/?i=iponxncfr9d8&utm_content=1ur8x9w">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/henrique.queiroz.37051">
+    <img alt="Facebook" src=" https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+ 
 </div>
 
 <h2>Frequency</h2> 
