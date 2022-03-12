@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Henrique hq 👋</h1>
+<h1 align="center">Hi, I'm Henrique 👋</h1>
 
 ### About me 😄
 - My name is Henrique Queiroz and I am 18 years old
@@ -8,7 +8,7 @@
 - I like to see every little project of mine working and serving its purpose
 - Currently studying: Python, React.
 
-### Contacts
+### Contacts 📞
 <div>
   <a href="mailto:henrique.q.paula@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -23,7 +23,7 @@
 </div>
 
 
-<h2>Skills</h2> 
+##<h2>Skills</h2> 
 <h3>Programming languages</h3>
 - PHP
 - Python
