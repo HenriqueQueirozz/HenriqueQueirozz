@@ -37,10 +37,10 @@
 
 ### Frequency
 <div align="center">
-  <a href="https://github.com/Henrique-DS">
-  <img height='170vh' src='https://github-readme-stats.vercel.app/api?username=Henrique-DS&theme=dark'>
-  <img height='170vh' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-DS&hide=html&layout=compact&theme=dark'>
-  <!--<img height='230vh' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-DS&hide=html&layout=compact=true&theme=dark'>-->
+  <a href="https://github.com/henrique-queiroz">
+  <img height='170vh' src='https://github-readme-stats.vercel.app/api?username=henrique-queiroz&theme=dark'>
+  <img height='170vh' src='https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-queiroz&hide=html&layout=compact&theme=dark'>
+  <!--<img height='230vh' src='https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-queiroz&hide=html&layout=compact=true&theme=dark'>-->
   </a>
 </div>
 
@@ -62,3 +62,5 @@
    <a href="https://www.instagram.com/riiiquue/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"/>
   </a>
+
+  ![Snake animation](https://github.com/henrique-queiroz/henriquequeiroz/blob/output/github-contribution-grid-snake.svg)
