@@ -13,7 +13,7 @@
   <a href="https://github.com/henrique-queiroz">
   <img height='170vh' src='https://github-readme-stats.vercel.app/api?username=HenriqueQueirozz&theme=dark'>
   <img height='170vh' src='https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueQueirozz&hide=html&layout=compact&theme=dark'>
-  <!--<img height='230vh' src='https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueQueirozz&hide=html&layout=compact=true&theme=dark'>-->
+  <img height='170vh' src='https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueQueirozz&hide=html&layout=compact=true&theme=dark'>
   </a>
 </div>
 
@@ -26,4 +26,6 @@
   
   <a href="https://www.linkedin.com/in/henrique-queiroz-a1a0bb1b7">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" title="Linkedin"/>
-   </a>
+  </a>
+  
+  ![Snake animation](https://github.com/PabloHenrique/PabloHenrique/blob/output/github-contribution-grid-snake.svg)
