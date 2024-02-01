@@ -1,7 +1,7 @@
 <h1 align="center">Olá, meu nome é Henrique 🌵</h1>
 
 ### Sobre mim
-- 👤 Meu nome é Henrique Queiroz de Paula e eu tenho 19 anos;
+- 👤 Meu nome é Henrique Queiroz de Paula e eu tenho 20 anos;
 - 🗺️ Eu moro em Marília, interior de São Paulo, no Brasil;
 - 🖥️ Eu sou um estudante universitário em Análise e Desenvolvimento de Sistema na FATEC - Garça;
 - 👨‍💻 Eu sou desenvolvedor em uma empresa de contabilidade on-line chamada Contabilivre;
