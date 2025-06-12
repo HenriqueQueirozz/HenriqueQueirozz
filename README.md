@@ -1,12 +1,10 @@
-<h1 align="center">Olá, meu nome é Henrique 🌵</h1>
+<h1 align="center">Olá, meu nome é Henrique ❤️‍🔥</h1>
 
 ### Sobre mim
-- 👤 Meu nome é Henrique Queiroz de Paula e eu tenho 20 anos;
+- 👤 Meu nome é Henrique Queiroz de Paula e eu tenho 21 anos;
 - 🗺️ Eu moro em Marília, interior de São Paulo, no Brasil;
-- 🖥️ Eu sou um estudante universitário em Análise e Desenvolvimento de Sistema na FATEC - Garça;
-- 👨‍💻 Eu sou desenvolvedor em uma empresa de contabilidade on-line chamada Contabilivre;
-- ✨ Gosto de ver cada pequeno projeto meu funcionando e servindo ao seu propósito;
-- 📚 Estudando atualmente: Php e Laravel.
+- 👨‍💻 Eu sou desenvolvedor web da companhia LWSA , na sede Tray;
+- 📚 Estudando atualmente: Nginx.
 
 ### Frequência
 <div align="center">
